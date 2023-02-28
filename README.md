@@ -2,11 +2,12 @@
 
 https://drive.google.com/file/d/1EDSHlvTyk1FEoJxzTtt_tJ5likA8i-xG/view
 
+![Screen Shot 2023-02-27 at 4 13 26 PM](https://user-images.githubusercontent.com/111917750/221719570-f592b9ac-1e1d-4146-a8bc-d177233587ee.png)
+
 
 ## AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project
 ```
 
-## Acceptance Criteria
 
 1- GIVEN a command-line application that accepts user input
 
@@ -37,6 +38,15 @@ https://drive.google.com/file/d/1EDSHlvTyk1FEoJxzTtt_tJ5likA8i-xG/view
 14- WHEN I click on the links in the Table of Contents
 
 15- THEN I am taken to the corresponding section of the README.
+
+
+
+
+
+
+
+
+
 
 
 
